@@ -22,7 +22,7 @@ Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social
  <br>
 <strong> ![Static
 Badge](https://img.shields.io/badge/Active%20GitHub%20Account%20%3A--8A2BE2?style=social)
- </strong> [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/parth11beelabs)
+ </strong> [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-choudhary-33590219a/)
