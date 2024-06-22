@@ -40,7 +40,6 @@ Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social
 ![TypeScript](https://img.shields.io/badge/typescript-%23324440.svg?style=flat&logo=typescript&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![NextJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=next&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23593d88.svg?style=flat&logo=redis&logoColor=white)
@@ -48,7 +47,7 @@ Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social
 ![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?style=flat&logo=firebase&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![ejs](https://img.shields.io/badge/ejs-%231572B6.svg?style=flat&logo=ejs&logoColor=white)
-![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white)
+![jira](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-%23430098.svg?style=flat&logo=AWS&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
