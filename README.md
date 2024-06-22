@@ -28,9 +28,7 @@ talents and innovative capabilities.
 Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social&link=https%3A%2F%2Fwww.jobsyahan.com%2Fen)
  </strong> [![JobsYahan](https://jobsyahan-v3.s3.ap-south-1.amazonaws.com/svg-icons/jobsyahaanmain.svg?logo=Github&logoColor=White)](https://www.jobsyahan.com/en)
  <br>
-<strong> ![Static
-Badge](https://img.shields.io/badge/Active%20GitHub%20Account%20%3A--8A2BE2?style=social)
- </strong> [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-choudhary-33590219a/)
@@ -48,11 +46,9 @@ Badge](https://img.shields.io/badge/Active%20GitHub%20Account%20%3A--8A2BE2?styl
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?style=flat&logo=firebase&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=flat&logo=docker&logoColor=white)
 ![ejs](https://img.shields.io/badge/ejs-%231572B6.svg?style=flat&logo=ejs&logoColor=white)
 ![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-%23430098.svg?style=flat&logo=AWS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats:
