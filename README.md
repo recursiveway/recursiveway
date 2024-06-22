@@ -4,10 +4,18 @@
 
 # 💫    <span align="center"> <strong> Full Stack Developer </strong>  </span>
 
- 🔭 Experienced in MERN stack for over 1.5 year, with expertise in
-Express, MongoDB, and Next.js, Specialize in developing secure REST
-APIs, emphasizing clean and modular code with proactive issue
-management.
+ 🔭 Experienced full-stack developer with over 1 year of expertise in the MERN stack (MongoDB, Express, React, Node.js). Proficient in Next.js for server-side rendering and static site generation. Specializes in:
+
+Developing secure and scalable REST APIs
+Creating responsive and interactive front-end applications
+Designing and optimizing MongoDB databases
+Implementing authentication and authorization systems
+Writing clean, modular, and maintainable code
+Utilizing Git for version control and collaborative development
+Proactively identifying and resolving technical issues
+Implementing automated testing and continuous integration
+
+Committed to staying current with industry best practices and emerging technologies in full-stack development.
 
  🤝 I'm currently seeking a job opportunity in a dynamic and
 forward-thinking company that can effectively leverage my creative
